@@ -1,6 +1,7 @@
 <script setup lang="ts"></script>
 
 <template>
+  <!-- HEADER -->
   <header class="bg-white">
     <nav
       class="flex items-center justify-between p-6 mx-auto max-w-7xl lg:px-8"
